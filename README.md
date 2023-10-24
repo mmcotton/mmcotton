@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi, I'm Michaela! 
 
-<!--
-**mmcotton/mmcotton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Certifications 
+- [Google Data Analytics Certificate](https://www.credly.com/badges/7f23ae42-48f1-487a-93de-cd9c37055d08/public_url)
 
-Here are some ideas to get you started:
+## 👨‍💻 Data Analysis Projects:</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
+
+
